@@ -370,7 +370,7 @@ The 2022 analysis followed the same general match-level analytical structure use
 * Range: **−65 to +87**
 ### 2022 First No-Break Control
 
-![2022 First Control Histogram](images/histogram_2022_first_control.png)
+![2022 First Control Histogram](images/histogram_first_control.png)
 
 Wilcoxon signed-rank test:
 
@@ -392,7 +392,7 @@ There was no statistically significant evidence of a systematic change between t
 * Range: **−87 to +77**
 ### 2022 Second No-Break Control
 
-![2022 Second Control Histogram](images/histogram_2022_second_control.png)
+![2022 Second Control Histogram](images/histogram_second_control.png)
 
 Wilcoxon signed-rank test:
 
@@ -520,8 +520,8 @@ hydration-break-analysis/
 ├── images/
 │   ├── histogram_first_break.png
 │   ├── histogram_second_break.png
-│   ├── histogram_2022_first_control.png
-│   └── histogram_2022_second_control.png
+│   ├── histogram_first_control.png
+│   └── histogram_second_control.png
 │
 ├── syc/
 │   └── utilities.py
